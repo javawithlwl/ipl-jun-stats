@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://dpg-chncg4u4dad1d51vem90-a.oregon-postgres.render.com:5432/jsf_may_2023
+    url: jdbc:postgresql://dpg-ck4g4mk2kpls73dt13p0-a.oregon-postgres.render.com:5432/lwl_db
     username: dbuser
-    password: 1HnWkrn3bIQUkkSfcnwk7gW8YW3nJIWy
+    password: JvL42pV5YmRGIcYhGmXooU8yRBAHm3zi
   jpa:
     show-sql: true
     properties:
